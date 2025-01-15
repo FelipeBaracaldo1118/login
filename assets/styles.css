@@ -40,7 +40,7 @@ input{
     margin-bottom: 15px;
 }
 input[type='submit']{
-    background-color: rgb(139, 240, 153);
+    background-color: rgb(70, 142, 173);
     color: black;
     font-weight: bolder;
     transition: all .5s ease;
